@@ -1,5 +1,5 @@
 pizza
 steak and cheese
 girls
--basketball
--tennis
+- basketball
+- tennis
